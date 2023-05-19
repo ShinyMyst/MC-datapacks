@@ -1,1 +1,1 @@
-Datapack to add Excalibur Sword.
+Different Minecraft datapack experiments.
